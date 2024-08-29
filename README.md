@@ -9,7 +9,7 @@
 </div>
 
 
-## Sound Analysis Notebooks
+## Kirby Pathfinding Algorithm BFS
 
 This repository contains Jupyter notebooks designed for the analysis of sound waves, audio, and music. The notebooks aim to facilitate research and development in Digital Signal Processing (DSP), Music Information Retrieval (MIR), and other sound-related fields. These tools are suitable for AI experts, data scientists, and engineers with a focus on audio signal processing.
 
